@@ -4,9 +4,9 @@
   <remote  name="omapzoom" fetch="git://git.omapzoom.org/" />
 
   <!-- CM removals -->
-  <remove-project name="CyanogenMod/android_hardware_ti_omap3" />
-  <remove-project name="CyanogenMod/android_packages_apps_VideoEditor"/>
-  <remove-project name="CyanogenMod/android_packages_apps_Stk"/>
+  <remove-project name="LineageOS/android_hardware_ti_omap3" />
+  <remove-project name="LineageOS/android_packages_apps_VideoEditor"/>
+  <remove-project name="LineageOS/android_packages_apps_Stk"/>
 
   <project path="hardware/ti/omap3" name="Quarx2k/android_hardware_ti_omap3-compat" />
 
